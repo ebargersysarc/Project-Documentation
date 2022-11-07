@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "cd4ae1d1c7837f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b785d0302afebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d263adf0a13a4ed3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7caa6a256857cff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "06f704d244af9e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd9cbafc9be8dd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbe0cab4a2ab9866",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7778f601e75b57e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7f6788750bbe052",
+    "type": "split",
+    "children": [
+      {
+        "id": "f116cb5eb29f51b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bccdf5bc91e7013",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a419ab2bfb2623c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a41345bffa2e289",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6dc61fd9a017a4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d263adf0a13a4ed3",
+  "lastOpenFiles": [
+    "Fortinet/Fortinet FIPS-CC/FIPS-CC mode overview.md",
+    "Fortinet/Fortinet FIPS-CC/FIPS-CC rebuilds.md",
+    "Fortinet/Fortinet FIPS-CC/Other Notes.md",
+    "Test.md"
+  ]
+}

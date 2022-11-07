@@ -1,0 +1,1 @@
+If VLAN-Switch gets turned back on, don't forget to turn it off again (it's a default in newer Fortigates) otherwise if you had zones with hardware interfaces, they will be consumed by the VLAN switch.
